@@ -169,18 +169,6 @@ nav ul li a{
     color: gray;
 }
 
-/* .margin1{
-    margin-left: 16px;
-}
-
-.margin2{
-    margin: 0 16px;
-}
-
-.margin3{
-    margin-right: 16px;
-} */
-
 .news_box{
     margin: 0 16px;
 }
@@ -200,4 +188,11 @@ nav ul li a{
     font-weight: bold;
     text-decoration: none;
     padding: 24px 40px;
+}
+
+.l-footer {
+    padding: 28px 0;
+    background: #707070;
+    text-align: center;
+    margin-top: 40px;
 }
